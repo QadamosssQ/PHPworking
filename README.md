@@ -4,5 +4,5 @@
 Projekty
 -----
 
-- [Biblioteka][1]
+- Biblioteka
 
