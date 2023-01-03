@@ -1,7 +1,7 @@
 # PHPworking
 ### All working php projects
 
-Projekty
+Projects:
 -----
 
 - Biblioteka
